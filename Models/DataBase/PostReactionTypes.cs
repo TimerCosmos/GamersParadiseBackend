@@ -1,0 +1,33 @@
+﻿using System;
+using System;
+using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations.Schema;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Models.DataBase
+{
+    [Table("gamersparadise_postreactiontypes")]
+    public class PostReactionTypes
+    {
+        [Column("reactiontypeid")]
+        public int ReactionTypeId { get; set; }
+        [Column("reactionemoji")]
+        public string? ReactionEmoji { get; set; }
+        [Column("reactionmultiplier")]
+        public decimal? ReactionMultiplier { get; set; }
+        [Column("reactionname")]
+        public string? ReactionName { get; set; }
+        [Column("createdon")]
+        public DateTime CreatedOn { get; set; } = DateTime.Now.ToUniversalTime();
+        [Column("createdby")]
+        public string? CreatedBy { get; set; }
+        [Column("modifiedon")]
+        public DateTime ModifiedOn { get; set; } = DateTime.Now.ToUniversalTime();
+        [Column("modifiedby")]
+        public string? ModifiedBy { get; set; }
+        [Column("isactive")]
+        public bool IsActive { get; set; } = true;
+    }
+}

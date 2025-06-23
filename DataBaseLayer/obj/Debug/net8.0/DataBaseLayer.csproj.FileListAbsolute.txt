@@ -1,0 +1,17 @@
+C:\Users\yasas\source\repos\GamersParadise\DataBaseLayer\bin\Debug\net8.0\DataBaseLayer.deps.json
+C:\Users\yasas\source\repos\GamersParadise\DataBaseLayer\bin\Debug\net8.0\DataBaseLayer.dll
+C:\Users\yasas\source\repos\GamersParadise\DataBaseLayer\bin\Debug\net8.0\DataBaseLayer.pdb
+C:\Users\yasas\source\repos\GamersParadise\DataBaseLayer\bin\Debug\net8.0\Interfaces.dll
+C:\Users\yasas\source\repos\GamersParadise\DataBaseLayer\bin\Debug\net8.0\Models.dll
+C:\Users\yasas\source\repos\GamersParadise\DataBaseLayer\bin\Debug\net8.0\Interfaces.pdb
+C:\Users\yasas\source\repos\GamersParadise\DataBaseLayer\bin\Debug\net8.0\Models.pdb
+C:\Users\yasas\source\repos\GamersParadise\DataBaseLayer\obj\Debug\net8.0\DataBaseLayer.csproj.AssemblyReference.cache
+C:\Users\yasas\source\repos\GamersParadise\DataBaseLayer\obj\Debug\net8.0\DataBaseLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasas\source\repos\GamersParadise\DataBaseLayer\obj\Debug\net8.0\DataBaseLayer.AssemblyInfoInputs.cache
+C:\Users\yasas\source\repos\GamersParadise\DataBaseLayer\obj\Debug\net8.0\DataBaseLayer.AssemblyInfo.cs
+C:\Users\yasas\source\repos\GamersParadise\DataBaseLayer\obj\Debug\net8.0\DataBaseLayer.csproj.CoreCompileInputs.cache
+C:\Users\yasas\source\repos\GamersParadise\DataBaseLayer\obj\Debug\net8.0\DataBase.D97539FC.Up2Date
+C:\Users\yasas\source\repos\GamersParadise\DataBaseLayer\obj\Debug\net8.0\DataBaseLayer.dll
+C:\Users\yasas\source\repos\GamersParadise\DataBaseLayer\obj\Debug\net8.0\refint\DataBaseLayer.dll
+C:\Users\yasas\source\repos\GamersParadise\DataBaseLayer\obj\Debug\net8.0\DataBaseLayer.pdb
+C:\Users\yasas\source\repos\GamersParadise\DataBaseLayer\obj\Debug\net8.0\ref\DataBaseLayer.dll
